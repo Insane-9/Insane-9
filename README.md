@@ -121,10 +121,6 @@ Here are some of the cool things I've built on the Solana Blockchain:
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Insane-9&theme=radical" alt="Most Commits" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Insane-9&theme=radical&hide_border=true" height="180" alt="Streak" />
-</div>
-
 ---
 
 <div align="center">
