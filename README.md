@@ -21,8 +21,8 @@
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
   <a href="https://sohambanerg.vercel.app/">
-    <p>My Portfolio - Click to visit</p>
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=react&logoColor=white" />
+</a>
   
 </div>
 
