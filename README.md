@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
   <a href="https://sohambanerg.vercel.app/">
-    <h3>My Portfolio - Click to visit</h3>
+    <p>My Portfolio - Click to visit</p>
   </a>
   
 </div>
