@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there!%20I'm%20Soham&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Solana%20Developer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there!%20I'm%20Soham&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Backend%20·%20Frontend%20·%20(MERN/PERN)%20·%20Gen%20AI%20·%20Web3&descAlignY=55&descAlign=50" />
+</div>
 
 <div align="center">
-  <h3>🚀 Full Stack Solana Developer | 🦀 Rustacean | 📜 Researcher</h3>
+  <h3>🚀 Full Stack Developer | 🤖 Gen-AI | 🌐 Web3 (Solana)</h3>
   
   <p>
-    <em>Building high-concurrency dApps & pushing the limits of SVM composability.</em>
+    <em>Building end-to-end MERN/PERN products, AI-powered tooling, and high-performance Solana systems.</em>
   </p>
 
   <a href="https://www.linkedin.com/in/insane9">
@@ -21,98 +22,70 @@
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
   <a href="https://sohambanerg.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=react&logoColor=white" />
-</a>
-  
+    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-Hi! I am **Soham Banerjee**, a budding and enthusiastic **Full Stack Solana Developer** based in Durgapur, India. 
+Hi! I am **Soham Banerjee**, a full-stack developer blending modern web engineering, AI tooling, and decentralized systems.
 
-I transitioned from the EVM world to the **SVM (Solana Virtual Machine)** to master high-concurrency architecture. I love solving complex challenges in **PDA derivation**, **atomic Cross-Program Invocations (CPI)**, and **account-based storage optimization**.
-
-When I'm not coding secure DeFi vaults or creating DAOs, I am deep into research. I currently hold **5 Patents** and have authored **10 Research Papers** focusing on Blockchain Layer 2 scaling and Cryptography.
+I craft production-grade platforms using **JavaScript/TypeScript (React, Node)**, **MERN/PERN backends**, and **LLM/Gen‑AI integrations**, while also designing high-performance Web3 systems on **Solana (SVM)**. My work spans end-to-end product development, from API design and database architecture to smooth UX and model-driven UX.
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Tech Stack
 
-**Core Solana & Systems**
+**Core Web & Full Stack**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+**Databases & Backend**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+**Gen-AI & Tooling**
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/llama_index-ffffff?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA..." alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/Puter.js-181758?style=for-the-badge&logoColor=white" />
+</p>
+
+**Web3 & Solana**
 <p>
   <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anchor_Framework-2C3E50?style=for-the-badge&logo=anchor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Token--2022-27AE60?style=for-the-badge&logo=blockchain&logoColor=white" />
-</p>
-
-**Frontend & Integration**
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
-</p>
-
-**Backend & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anchor-2C3E50?style=for-the-badge&logo=anchor&logoColor=white" />
 </p>
 
 ---
 
 ### 🏗️ Featured Projects
 
-Here are some of the cool things I've built on the Solana Blockchain:
-
-#### 🏛️ [SolCAST DApp](https://github.com/Insane-9/SolCAST-DApp-full-codebase-client-backend)
-> *Rust, Anchor, React, SPL-Token*
-* **DAO Governance Engine:** Architected a system utilizing custom SPL tokens for voting weight.
-* **On-Chain Treasury:** Handles automated SOL-to-Token swaps and strictly transactional trade execution.
-* **Trustless Refunds:** Users can burn governance tokens to recover SOL.
-* **Security:** Rigorous PDA management for multi-user proposals.
-
-#### 📝 [Solana Notes DApp](https://github.com/Insane-9/solana-notes-dapp)
-> *Next.js, Tailwind, Anchor, Web3.js*
-* **Decentralized CRUD:** Replaced traditional databases with On-Chain Solana Accounts.
-* **Wallet Integration:** Seamless connection via `@solana/wallet-adapter`.
-* **Data Sovereignty:** Frontend fetches and decodes user-specific data directly from PDAs.
-
-#### 🤝 [Solana Escrow Program](https://github.com/Insane-9/Escrow-Program-with-Anchor)
-> *Rust, Anchor, CPI, SPL-Token*
-* **Trustless Swaps:** Utilizes **Cross-Program Invocations (CPIs)** to interface with SPL Tokens.
-* **Vault System:** The program acts as a custodian without private keys.
-* **Atomic Transactions:** Implemented atomic "MakeOffer" and "TakeOffer" instructions.
-
-#### 🧮 [Solana Calculator](https://github.com/Insane-9/Solana_Calculator_Anchor)
-> *Rust, Anchor, InitSpace*
-* A stateful program using Deterministic Account Derivation and Anchor's `InitSpace` to optimize on-chain storage costs.
-
----
-
-### 🧩 Other Cool Builds
-
-| Project | Tech Stack | Description |
+| Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| **[Thinkboard-X](https://github.com/Insane-9/Thinkboard-X)** | <img src="https://img.shields.io/badge/-Node.js-green" height="20"> <img src="https://img.shields.io/badge/-MongoDB-green" height="20"> | Scalable note-taking platform with Redis sliding window rate-limiting. |
-| **[Smart Counter](https://github.com/Insane-9/simple-counter-program-anchor)** | <img src="https://img.shields.io/badge/-Rust-black" height="20"> <img src="https://img.shields.io/badge/-Anchor-blue" height="20"> | Foundational contract utilizing `checked_add` to prevent integer overflows. |
-| **[Tic-Tac-Toe Engine](https://github.com/Insane-9/tic_tac_toe)** | <img src="https://img.shields.io/badge/-Rust-black" height="20"> <img src="https://img.shields.io/badge/-CLI-gray" height="20"> | Crash-proof engine using Algebraic Data Types to make invalid states unrepresentable. |
-| **[Guessing Game](https://github.com/Insane-9/guessing_game)** | <img src="https://img.shields.io/badge/-Rust-black" height="20"> <img src="https://img.shields.io/badge/-Systems-gray" height="20"> | Systems-level tool demonstrating memory safety and ownership models. |
+| **[SimpleComm](https://simplecomm-by-soham.onrender.com/)** | MERN (React, Node, MongoDB) | Full-stack commerce app with cart, checkout, payment gateway, and admin dashboard |
+| **[Gemini C Clone](https://gemini-c-soham.vercel.app/)** | React + Gemini API | Generative AI chat app with prompt history, typing effects, and preloader |
+| **[AI Resume Analyzer](https://github.com/Insane-9/ai-resume-analyzer)** | React + Puter.js | Upload resumes, AI ATS scoring, job matching, PDF → AI feedback |
+| **[SolCAST DApp](https://github.com/Insane-9/SolCAST-DApp-full-codebase-client-backend)** | Solana, Rust, Anchor | DAO governance, on-chain treasury, trustless refunds, SPL token voting |
+| **[Thinkboard-X](https://github.com/Insane-9/Thinkboard-X)** | MERN, Redis | Scalable note-taking with rate limiting and robust auth |
 
 ---
 
-### 🏆 Achievements & Research
+### 🏆 Research & Achievements
 
-* 📜 **5 Patents Filed:** Including Consortium Blockchain Architecture and Post-Quantum Cryptography.
-* 📄 **10 Research Papers:** Published in IEEE/Springer on ZK-Rollups and System Modeling.
-* 🥇 **2 Best Paper Awards:** For innovations in decentralized ledger security.
+* 📜 **5 Patents filed** (Blockchain architecture + security)
+* 📄 **10 research papers** on scaling, ZK-rollups, and cryptography
 
 ---
 
